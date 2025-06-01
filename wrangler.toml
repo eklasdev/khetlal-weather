@@ -1,0 +1,6 @@
+name = "khetlal-weather"
+compatibility_date = "2023-06-01"
+
+[site]
+bucket = "."
+
